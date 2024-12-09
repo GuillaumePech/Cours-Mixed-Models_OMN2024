@@ -10,7 +10,7 @@
 - (Data) long_format_example1 / raw_format_example1 / wide_format_example1 / raw_format_example2
 
 
-Evluation des cours: [cliquez-ici](https://docs.google.com/forms/d/e/1FAIpQLSccX6EnPhZ_NmLAqGEmIoKCy94SDxy_qD1KZw_MpD4C1H-B8g/viewform?usp=sharing)
+
 
   
   
