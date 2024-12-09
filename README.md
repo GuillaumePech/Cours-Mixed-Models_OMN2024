@@ -1,13 +1,16 @@
-Cours de modèles mixtes dans le cadre du cours d'Outils et Méthode Numérique donnée à l'Université libre de Bruxelles 2024-2025.
+## Cours de modèles mixtes dans le cadre du cours d'Outils et Méthode Numérique donnée à l'Université libre de Bruxelles 2024-2025.
 
-Cours 1 :
-(Slides) Inferential Mixed models-OMN_Cours1
-(Code) inferential_LM_intro_MM
+**Cours 1** :
+- (Slides) Inferential Mixed models-OMN_Cours1
+- (Code) inferential_LM_intro_MM
 
-Cours 2 :
-(Slides) Inferential Mixed models-OMN_Cours2
-(Codes) inferential_MM-simulated_data / inferential_MM-real_data
-(Data) long_format_example1 / raw_format_example1 / wide_format_example1 / raw_format_example2
+**Cours 2** :
+- (Slides) Inferential Mixed models-OMN_Cours2
+- (Codes) inferential_MM-simulated_data / inferential_MM-real_data
+- (Data) long_format_example1 / raw_format_example1 / wide_format_example1 / raw_format_example2
+
+
+Evluation des cours: [cliquez-ici](https://docs.google.com/forms/d/e/1FAIpQLSccX6EnPhZ_NmLAqGEmIoKCy94SDxy_qD1KZw_MpD4C1H-B8g/viewform?usp=sharing)
 
   
   
